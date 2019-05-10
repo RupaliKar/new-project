@@ -1,0 +1,45 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  
+ .header_logo {
+	margin-right: 178px;
+}
+.body_right_date {
+	left: 315px;
+}
+.body_right_del_left {
+	width: 571px;
+	margin-left: 4px;
+}
+.single_body_imgs {
+	padding: 11px 21px;
+}
+.single_body_score {
+	padding: 11px 12px;
+}
+.single_body_win {
+	padding: 12px 17px;
+}
+.body_left {
+
+	margin-left: 7px;
+	margin-bottom: 27px;
+}
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+ 
+    
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+ 
+    
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+.main{
+	width:480px;
+}
+
+}
